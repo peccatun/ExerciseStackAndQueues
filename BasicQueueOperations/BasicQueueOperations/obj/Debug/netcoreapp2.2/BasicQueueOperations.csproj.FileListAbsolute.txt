@@ -1,0 +1,11 @@
+D:\C#Advanced\BasicQueueOperations\BasicQueueOperations\bin\Debug\netcoreapp2.2\BasicQueueOperations.deps.json
+D:\C#Advanced\BasicQueueOperations\BasicQueueOperations\bin\Debug\netcoreapp2.2\BasicQueueOperations.runtimeconfig.json
+D:\C#Advanced\BasicQueueOperations\BasicQueueOperations\bin\Debug\netcoreapp2.2\BasicQueueOperations.runtimeconfig.dev.json
+D:\C#Advanced\BasicQueueOperations\BasicQueueOperations\bin\Debug\netcoreapp2.2\BasicQueueOperations.dll
+D:\C#Advanced\BasicQueueOperations\BasicQueueOperations\bin\Debug\netcoreapp2.2\BasicQueueOperations.pdb
+D:\C#Advanced\BasicQueueOperations\BasicQueueOperations\obj\Debug\netcoreapp2.2\BasicQueueOperations.csprojAssemblyReference.cache
+D:\C#Advanced\BasicQueueOperations\BasicQueueOperations\obj\Debug\netcoreapp2.2\BasicQueueOperations.csproj.CoreCompileInputs.cache
+D:\C#Advanced\BasicQueueOperations\BasicQueueOperations\obj\Debug\netcoreapp2.2\BasicQueueOperations.AssemblyInfoInputs.cache
+D:\C#Advanced\BasicQueueOperations\BasicQueueOperations\obj\Debug\netcoreapp2.2\BasicQueueOperations.AssemblyInfo.cs
+D:\C#Advanced\BasicQueueOperations\BasicQueueOperations\obj\Debug\netcoreapp2.2\BasicQueueOperations.dll
+D:\C#Advanced\BasicQueueOperations\BasicQueueOperations\obj\Debug\netcoreapp2.2\BasicQueueOperations.pdb

@@ -1,0 +1,11 @@
+D:\C#Advanced\MatchingBrakets\MatchingBrakets\obj\Debug\netcoreapp2.2\MatchingBrakets.csprojAssemblyReference.cache
+D:\C#Advanced\MatchingBrakets\MatchingBrakets\obj\Debug\netcoreapp2.2\MatchingBrakets.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MatchingBrakets\MatchingBrakets\obj\Debug\netcoreapp2.2\MatchingBrakets.AssemblyInfoInputs.cache
+D:\C#Advanced\MatchingBrakets\MatchingBrakets\obj\Debug\netcoreapp2.2\MatchingBrakets.AssemblyInfo.cs
+D:\C#Advanced\MatchingBrakets\MatchingBrakets\bin\Debug\netcoreapp2.2\MatchingBrakets.deps.json
+D:\C#Advanced\MatchingBrakets\MatchingBrakets\bin\Debug\netcoreapp2.2\MatchingBrakets.runtimeconfig.json
+D:\C#Advanced\MatchingBrakets\MatchingBrakets\bin\Debug\netcoreapp2.2\MatchingBrakets.runtimeconfig.dev.json
+D:\C#Advanced\MatchingBrakets\MatchingBrakets\bin\Debug\netcoreapp2.2\MatchingBrakets.dll
+D:\C#Advanced\MatchingBrakets\MatchingBrakets\bin\Debug\netcoreapp2.2\MatchingBrakets.pdb
+D:\C#Advanced\MatchingBrakets\MatchingBrakets\obj\Debug\netcoreapp2.2\MatchingBrakets.dll
+D:\C#Advanced\MatchingBrakets\MatchingBrakets\obj\Debug\netcoreapp2.2\MatchingBrakets.pdb

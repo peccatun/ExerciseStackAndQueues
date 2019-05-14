@@ -1,0 +1,11 @@
+D:\C#Advanced\PrintEvenNumbers\PrintEvenNumbers\bin\Debug\netcoreapp2.2\PrintEvenNumbers.deps.json
+D:\C#Advanced\PrintEvenNumbers\PrintEvenNumbers\bin\Debug\netcoreapp2.2\PrintEvenNumbers.runtimeconfig.json
+D:\C#Advanced\PrintEvenNumbers\PrintEvenNumbers\bin\Debug\netcoreapp2.2\PrintEvenNumbers.runtimeconfig.dev.json
+D:\C#Advanced\PrintEvenNumbers\PrintEvenNumbers\bin\Debug\netcoreapp2.2\PrintEvenNumbers.dll
+D:\C#Advanced\PrintEvenNumbers\PrintEvenNumbers\bin\Debug\netcoreapp2.2\PrintEvenNumbers.pdb
+D:\C#Advanced\PrintEvenNumbers\PrintEvenNumbers\obj\Debug\netcoreapp2.2\PrintEvenNumbers.csprojAssemblyReference.cache
+D:\C#Advanced\PrintEvenNumbers\PrintEvenNumbers\obj\Debug\netcoreapp2.2\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+D:\C#Advanced\PrintEvenNumbers\PrintEvenNumbers\obj\Debug\netcoreapp2.2\PrintEvenNumbers.AssemblyInfoInputs.cache
+D:\C#Advanced\PrintEvenNumbers\PrintEvenNumbers\obj\Debug\netcoreapp2.2\PrintEvenNumbers.AssemblyInfo.cs
+D:\C#Advanced\PrintEvenNumbers\PrintEvenNumbers\obj\Debug\netcoreapp2.2\PrintEvenNumbers.dll
+D:\C#Advanced\PrintEvenNumbers\PrintEvenNumbers\obj\Debug\netcoreapp2.2\PrintEvenNumbers.pdb

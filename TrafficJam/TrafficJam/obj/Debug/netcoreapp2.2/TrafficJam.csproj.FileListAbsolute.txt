@@ -1,0 +1,11 @@
+D:\C#Advanced\TrafficJam\TrafficJam\bin\Debug\netcoreapp2.2\TrafficJam.deps.json
+D:\C#Advanced\TrafficJam\TrafficJam\bin\Debug\netcoreapp2.2\TrafficJam.runtimeconfig.json
+D:\C#Advanced\TrafficJam\TrafficJam\bin\Debug\netcoreapp2.2\TrafficJam.runtimeconfig.dev.json
+D:\C#Advanced\TrafficJam\TrafficJam\bin\Debug\netcoreapp2.2\TrafficJam.dll
+D:\C#Advanced\TrafficJam\TrafficJam\bin\Debug\netcoreapp2.2\TrafficJam.pdb
+D:\C#Advanced\TrafficJam\TrafficJam\obj\Debug\netcoreapp2.2\TrafficJam.csprojAssemblyReference.cache
+D:\C#Advanced\TrafficJam\TrafficJam\obj\Debug\netcoreapp2.2\TrafficJam.csproj.CoreCompileInputs.cache
+D:\C#Advanced\TrafficJam\TrafficJam\obj\Debug\netcoreapp2.2\TrafficJam.AssemblyInfoInputs.cache
+D:\C#Advanced\TrafficJam\TrafficJam\obj\Debug\netcoreapp2.2\TrafficJam.AssemblyInfo.cs
+D:\C#Advanced\TrafficJam\TrafficJam\obj\Debug\netcoreapp2.2\TrafficJam.dll
+D:\C#Advanced\TrafficJam\TrafficJam\obj\Debug\netcoreapp2.2\TrafficJam.pdb

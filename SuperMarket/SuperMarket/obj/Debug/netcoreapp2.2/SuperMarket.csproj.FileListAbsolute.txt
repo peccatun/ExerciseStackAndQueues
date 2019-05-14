@@ -1,0 +1,11 @@
+D:\C#Advanced\SuperMarket\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.deps.json
+D:\C#Advanced\SuperMarket\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.runtimeconfig.json
+D:\C#Advanced\SuperMarket\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.runtimeconfig.dev.json
+D:\C#Advanced\SuperMarket\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.dll
+D:\C#Advanced\SuperMarket\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.pdb
+D:\C#Advanced\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.csprojAssemblyReference.cache
+D:\C#Advanced\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.csproj.CoreCompileInputs.cache
+D:\C#Advanced\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.AssemblyInfoInputs.cache
+D:\C#Advanced\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.AssemblyInfo.cs
+D:\C#Advanced\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.dll
+D:\C#Advanced\SuperMarket\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.pdb

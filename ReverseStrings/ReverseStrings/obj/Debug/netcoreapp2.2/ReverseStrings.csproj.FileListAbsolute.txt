@@ -1,0 +1,11 @@
+D:\C#Advanced\ReverseStrings\ReverseStrings\bin\Debug\netcoreapp2.2\ReverseStrings.deps.json
+D:\C#Advanced\ReverseStrings\ReverseStrings\bin\Debug\netcoreapp2.2\ReverseStrings.runtimeconfig.json
+D:\C#Advanced\ReverseStrings\ReverseStrings\bin\Debug\netcoreapp2.2\ReverseStrings.runtimeconfig.dev.json
+D:\C#Advanced\ReverseStrings\ReverseStrings\bin\Debug\netcoreapp2.2\ReverseStrings.dll
+D:\C#Advanced\ReverseStrings\ReverseStrings\bin\Debug\netcoreapp2.2\ReverseStrings.pdb
+D:\C#Advanced\ReverseStrings\ReverseStrings\obj\Debug\netcoreapp2.2\ReverseStrings.csprojAssemblyReference.cache
+D:\C#Advanced\ReverseStrings\ReverseStrings\obj\Debug\netcoreapp2.2\ReverseStrings.csproj.CoreCompileInputs.cache
+D:\C#Advanced\ReverseStrings\ReverseStrings\obj\Debug\netcoreapp2.2\ReverseStrings.AssemblyInfoInputs.cache
+D:\C#Advanced\ReverseStrings\ReverseStrings\obj\Debug\netcoreapp2.2\ReverseStrings.AssemblyInfo.cs
+D:\C#Advanced\ReverseStrings\ReverseStrings\obj\Debug\netcoreapp2.2\ReverseStrings.dll
+D:\C#Advanced\ReverseStrings\ReverseStrings\obj\Debug\netcoreapp2.2\ReverseStrings.pdb

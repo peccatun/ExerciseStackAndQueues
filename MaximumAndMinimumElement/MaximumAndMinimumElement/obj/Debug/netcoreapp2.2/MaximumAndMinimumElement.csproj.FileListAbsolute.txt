@@ -1,0 +1,11 @@
+D:\C#Advanced\MaximumAndMinimumElement\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.deps.json
+D:\C#Advanced\MaximumAndMinimumElement\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.runtimeconfig.json
+D:\C#Advanced\MaximumAndMinimumElement\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.runtimeconfig.dev.json
+D:\C#Advanced\MaximumAndMinimumElement\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.dll
+D:\C#Advanced\MaximumAndMinimumElement\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.pdb
+D:\C#Advanced\MaximumAndMinimumElement\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.csprojAssemblyReference.cache
+D:\C#Advanced\MaximumAndMinimumElement\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+D:\C#Advanced\MaximumAndMinimumElement\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.AssemblyInfoInputs.cache
+D:\C#Advanced\MaximumAndMinimumElement\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.AssemblyInfo.cs
+D:\C#Advanced\MaximumAndMinimumElement\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.dll
+D:\C#Advanced\MaximumAndMinimumElement\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.pdb
